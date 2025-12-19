@@ -1,30 +1,15 @@
 # CookAR app
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ajrobins5-8694s-projects/v0-cook-ar-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/oPGSgJdzU9F)
-
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/ajrobins5-8694s-projects/v0-cook-ar-app](https://vercel.com/ajrobins5-8694s-projects/v0-cook-ar-app)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/oPGSgJdzU9F](https://v0.app/chat/oPGSgJdzU9F)**
+Cook with Confidence is an AR system cooking app that guides you through recipes with step by step instructions projected directly in your kitchen with paired CookAR smart glasses. It shows ingrediencts, measurement, and technigues to help you cook without wasting time and save money!
 
 ## How It Works
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Choose your recipe
+     Browse the library of receipes - categorized by difficulty and time.
+2. AR Instructions
+     Using your device camera, the app projects step by step instructions like ingredients, measuements, and cooking techniques showed above your count or stove.
+3. Interactive Feedback
+    The app tracks your progress, tips, alers, and corrections.
+4. Finish & Serve!
