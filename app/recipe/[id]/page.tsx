@@ -33,7 +33,7 @@ export default async function RecipePage({ params }: RecipePageProps) {
       comment,
       photo_url,
       created_at,
-      profiles:user_id (
+      profiles (
         display_name
       )
     `,
