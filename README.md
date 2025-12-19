@@ -8,8 +8,10 @@ Cook with Confidence is an AR system cooking app that guides you through recipes
 
 1. Choose your recipe
      Browse the library of receipes - categorized by difficulty and time.
-2. AR Instructions
+     You can add your ingredients to your shopping list and favorite recipes as well.
+3. AR Instructions
      Using your device camera, the app projects step by step instructions like ingredients, measuements, and cooking techniques showed above your count or stove.
-3. Interactive Feedback
+4. Interactive Feedback
     The app tracks your progress, tips, alers, and corrections.
-4. Finish & Serve!
+   
+5. Finish & Serve!
